@@ -8,3 +8,4 @@
   />
 </a>
   
+<img src="https://badzi-server-464152216340.asia-northeast3.run.app/api/badges?url=https%3A%2F%2Fgithub.com%2Fsooyeon0o0&label=Views&color=0d6efd&styleType=rabbit" alt="Views" />
