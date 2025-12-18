@@ -1,4 +1,4 @@
-## 나는야 코딱지 👋
+## (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 <h1 align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sooyeon0o0&utm_content=farm">
 <img
